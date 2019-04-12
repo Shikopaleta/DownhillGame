@@ -9,6 +9,7 @@ Characteristics:
 - Map and enemies move around the player, the player only moves vertically.
 - Has a death-screen.
 - Player has 2 attacks, a melee spammable attack and a fireball with a cooldown.
+- Random music after each death.
 - It is an incredibly annoying game.
 
 # Video preview
